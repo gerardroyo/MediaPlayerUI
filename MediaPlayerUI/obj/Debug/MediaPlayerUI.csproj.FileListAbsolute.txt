@@ -1,0 +1,10 @@
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.csprojAssemblyReference.cache
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Properties.Resources.resources
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.csproj.GenerateResource.cache
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
