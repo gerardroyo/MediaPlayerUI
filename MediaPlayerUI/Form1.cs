@@ -56,6 +56,7 @@ namespace MediaPlayerUI
 
         private void button2_Click(object sender, EventArgs e)
         {
+            openChildForm(new Form2());
             //..
             // Code
             //..
@@ -128,6 +129,7 @@ namespace MediaPlayerUI
 
         private void btnEqualizer_Click(object sender, EventArgs e)
         {
+            openChildForm(new Form3());
             //..
             // Code
             //..

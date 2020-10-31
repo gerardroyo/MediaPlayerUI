@@ -8,3 +8,5 @@ C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.
 C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.csproj.CoreCompileInputs.cache
 C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
 C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form2.resources
+C:\Users\roshs\source\repos\MediaPlayerUI\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form3.resources
